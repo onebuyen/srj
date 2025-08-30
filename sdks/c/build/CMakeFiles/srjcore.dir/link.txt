@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsrjcore.a CMakeFiles/srjcore.dir/src/srjcore.c.o
+/usr/bin/ranlib libsrjcore.a

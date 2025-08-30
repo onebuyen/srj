@@ -1,0 +1,7 @@
+/Users/turampurty/srj/sdks/c/build/CMakeFiles/srjcore.dir
+/Users/turampurty/srj/sdks/c/build/CMakeFiles/edit_cache.dir
+/Users/turampurty/srj/sdks/c/build/CMakeFiles/rebuild_cache.dir
+/Users/turampurty/srj/sdks/c/build/CMakeFiles/list_install_components.dir
+/Users/turampurty/srj/sdks/c/build/CMakeFiles/install.dir
+/Users/turampurty/srj/sdks/c/build/CMakeFiles/install/local.dir
+/Users/turampurty/srj/sdks/c/build/CMakeFiles/install/strip.dir
